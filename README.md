@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Galaxy Network MAB
 
-You can use the [editor on GitHub](https://github.com/MCEpicNation/GalaxyNetworkMAB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is "Galaxy Network MAB" ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    Galaxy Network MAB is a Discord bot I've developed from the ground up. While I'm fairly new
+    to Javascript the bot has some incredible functionality.
+    
+## Bot Information
 
-### Markdown
+ Just some basics in it. :)
+ ### Bot Developer: 
+ 
+ MCEpic_Nation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ### Other Info:
 
-```markdown
-Syntax highlighted code block
+ ![BuildInfo](https://img.shields.io/badge/Build-Passing-success.svg?style=for-the-badge)
 
-# Header 1
-## Header 2
-### Header 3
+ ![PlatformInfo](https://img.shields.io/badge/Platform-Windows%2064x%20|%20JavaScript-blue.svg?style=for-the-badge)
 
-- Bulleted
-- List
+ ![VersionInfo](https://img.shields.io/badge/Version-2.0-orange.svg?style=for-the-badge)
 
-1. Numbered
-2. List
+ ![CopyrightPicture](https://static.copyrighted.com/badges/125x25/03_2_2x.png)
 
-**Bold** and _Italic_ and `Code` text
+## Useful Links
+ ### Galaxy Network Discord:
 
-[Link](url) and ![Image](src)
-```
+ [Click me for the discord!](https://discord.gg/ySEAt2M)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MCEpicNation/GalaxyNetworkMAB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ### Developer Page:
+[Click me for the Developer Page!](trello.com/b/FyoC8P89/galaxy-network-mab)
