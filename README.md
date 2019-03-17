@@ -2,8 +2,9 @@
 
 ## What is "Galaxy Network MAB" ?
 
-    Galaxy Network MAB is a Discord bot I've developed from the ground up. 
-    While I'm fairly new to Javascript the bot has some incredible functionality.
+   Galaxy Network MAB is a Discord bot I've developed from the ground up. 
+   While I'm fairly new to Javascript the bot has some incredible functionality.
+   That being said, making bug reports is extremely helpful!
     
 ## Bot Information
 
@@ -29,7 +30,7 @@
  ![CopyrightPicture](https://static.copyrighted.com/badges/125x25/03_2_2x.png)
  
 ## Where's the code?!
-The code will not be publish so that nobody steals it. Otherwise you can see the bot work in our discord.
+The code will not be published so that nobody steals it. Otherwise you can see the bot work in our discord.
 
 ## Useful Links
 
