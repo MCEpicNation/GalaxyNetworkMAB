@@ -8,11 +8,11 @@
 ## Bot Information
 
  Just some basics in it. :)
- ### Bot Developer: 
+### Bot Developer: 
  
  MCEpic_Nation
 
- ### Other Info:
+### Other Info:
 
  ![BuildInfo](https://img.shields.io/badge/Build-Passing-success.svg?style=for-the-badge)
 
@@ -30,11 +30,11 @@ The code will not be publish so that nobody steals it. Otherwise you can see the
 
 ## Useful Links
 
- ### Galaxy Network Discord:
+### Galaxy Network Discord:
 
  [Click me for the discord!](https://discord.gg/ySEAt2M)
 
 
- ### Developer Page:
+### Developer Page:
 [Click me for the Developer Page!](trello.com/b/FyoC8P89/galaxy-network-mab)
 
