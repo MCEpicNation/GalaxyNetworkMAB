@@ -20,7 +20,7 @@
  ![PlatformInfo](https://img.shields.io/badge/Platform-Windows%2064xblue.svg?style=for-the-badge)
 
  
- ![LanguageInfo](https://img.shields.io/badge/Language%-JavaScript-blue.svg?style=for-the-badge)
+ ![LanguageInfo](https://img.shields.io/badge/Language-JavaScript-blue.svg?style=for-the-badge)
  
  
  ![VersionInfo](https://img.shields.io/badge/Version-2.0-orange.svg?style=for-the-badge)
