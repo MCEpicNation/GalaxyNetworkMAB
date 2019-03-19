@@ -1,8 +1,8 @@
 # Galaxy Network MAB
 
-## What is "Galaxy Network MAB" ?
+## What is "Potato Network MAB" ?
 
-   Galaxy Network MAB is a Discord bot I've developed from the ground up. 
+   Potato Network MAB is a Discord bot I've developed from the ground up. 
    While I'm fairly new to Javascript the bot has some incredible functionality.
    That being said, making bug reports is extremely helpful!
     
