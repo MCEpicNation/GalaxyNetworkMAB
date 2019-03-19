@@ -36,7 +36,7 @@ The code will not be published so that nobody steals it. Otherwise you can see t
 
 ### Galaxy Network Discord:
 
- [Click me for the discord!](https://discord.gg/ySEAt2M)
+ [Click me for the discord!]()
 
 
 ### Developer Page:
