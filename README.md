@@ -1,4 +1,4 @@
-# Galaxy Network MAB
+# Potato Network MAB
 
 ## What is "Potato Network MAB" ?
 
