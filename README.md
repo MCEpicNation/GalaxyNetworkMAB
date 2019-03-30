@@ -40,5 +40,5 @@ The code will not be published so that nobody steals it. Otherwise you can see t
 
 
 ### Developer Page:
-[Click me for the Developer Page!](trello.com/b/FyoC8P89/galaxy-network-mab)
+[Click me for the Developer Page!](https://trello.com/b/FyoC8P89/galaxy-network-mab)
 
