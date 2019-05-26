@@ -2,16 +2,28 @@
 
 ## What is "Galaxy Network MAB" ?
 
-   Galaxy Network MAB is a Discord bot I've developed from the ground up. 
+   Galaxy Network MAB is a Discord bot I've developed from the ground up.
+   Galaxy Network MAB is commonly referred to "MAB", and MAB itself stands for
+   "Moderation Assistant/Assistance Bot"
    While I'm fairly new to Javascript the bot has some incredible functionality.
    That being said, making bug reports is extremely helpful!
     
 ## Bot Information
 
- Just some basics in it. :)
+ Below contains other misc information on the bot.
+ Including Build, Platform, Version, etc.
 ### Bot Developer: 
  
  MCEpic_Nation
+
+### Features
+| Feature | Supported |
+| --- | :---: |
+| Fun Commands | :white_check_mark: |
+| Moderation Commands | :white_check_mark: |
+| Moderation Command Logging | :white_check_mark:|
+| Join/Leave Logs | :white_check_mark:|
+| Music | :x: |
 
 ### Other Info:
 
@@ -33,12 +45,9 @@
 The code will not be published so that nobody steals it. Otherwise you can see the bot work in our discord.
 
 ## Useful Links
+| Service | Link | Status | Why Invalid? |
+| --- | ---|  :---: | --- |
+| Discord | - | :x: | Users abused the link. |
+| Trello | [Click me](https://trello.com/b/FyoC8P89/galaxy-network-mab) | :white_check_mark: | - |
 
-### Galaxy Network Discord:
-
- [Click me for the discord!](https://discord.gg/ySEAt2M)
-
-
-### Developer Page:
-[Click me for the Developer Page!](https://trello.com/b/FyoC8P89/galaxy-network-mab)
 
