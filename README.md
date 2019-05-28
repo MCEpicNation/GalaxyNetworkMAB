@@ -16,14 +16,14 @@
  
  MCEpic_Nation
 
-### Features
-| Feature | Supported |
-| --- | :---: |
-| Fun Commands | :white_check_mark: |
-| Moderation Commands | :white_check_mark: |
-| Moderation Command Logging | :white_check_mark:|
-| Join/Leave Logs | :white_check_mark:|
-| Music | :x: |
+### Features 
+| Feature | Supported | Support Priority | Status |
+| --- | :---: | --- | --- |
+| Fun Commands | :white_check_mark: | High | ET 95% Functionality |
+| Moderation Commands | :white_check_mark: | High | ET 95% Functionality |
+| Moderation Command Logging | :white_check_mark:| High | ET 98% Functionality |
+| Join/Leave Logs | :white_check_mark:| High | ET 99% Functionality |
+| Music | :white_check_mark: | Low | ET 50% Functionality |
 
 ### Other Info:
 
