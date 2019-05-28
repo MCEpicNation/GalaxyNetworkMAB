@@ -24,6 +24,8 @@
 | Moderation Command Logging | :white_check_mark:| High | ET 98% Functionality |
 | Join/Leave Logs | :white_check_mark:| High | ET 99% Functionality |
 | Music | :white_check_mark: | Low | ET 50% Functionality |
+### Music Disclaimer
+While I'm super hyped I got music added, I will not support it and once it breaks it will become deprecated, and eventually, removed.
 
 ### Other Info:
 
