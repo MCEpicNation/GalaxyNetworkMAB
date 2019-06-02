@@ -19,11 +19,11 @@
 ### Features 
 | Feature | Supported | Support Priority | Status |
 | --- | :---: | --- | --- |
-| Fun Commands | :white_check_mark: | High | ET 95% Functionality |
-| Moderation Commands | :white_check_mark: | High | ET 95% Functionality |
-| Moderation Command Logging | :white_check_mark:| High | ET 98% Functionality |
-| Join/Leave Logs | :white_check_mark:| High | ET 99% Functionality |
-| Music | :white_check_mark: | Low | ET 50% Functionality |
+| Fun Commands | :white_check_mark: | High | Unchanged |
+| Moderation Commands | :white_check_mark: | High | Unchanged |
+| Moderation Command Logging | :white_check_mark:| High | Unchanged |
+| Join/Leave Logs | :white_check_mark:| High | Unchanged |
+| Music | :white_check_mark: | Low | Unchanged |
 ### Music Disclaimer
 While I'm super hyped I got music added, I will not support it and once it breaks it will become deprecated, and eventually, removed.
 
