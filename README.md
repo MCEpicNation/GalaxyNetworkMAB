@@ -46,10 +46,4 @@ While I'm super hyped I got music added, I will not support it and once it break
 ## Where's the code?!
 The code will not be published so that nobody steals it. Otherwise you can see the bot work in our discord.
 
-## Useful Links
-| Service | Link | Status | Why Invalid? |
-| --- | ---|  :---: | --- |
-| Discord | - | :x: | Users abused the link. |
-| Trello | [Click me](https://trello.com/b/FyoC8P89/galaxy-network-mab) | :white_check_mark: | - |
-
 
