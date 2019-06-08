@@ -23,7 +23,7 @@
 | Moderation Commands | :white_check_mark: | High | Unchanged |
 | Moderation Command Logging | :white_check_mark:| High | Unchanged |
 | Join/Leave Logs | :white_check_mark:| High | Unchanged |
-| Music | :white_check_mark: | Low | Unchanged |
+| Music | :x: | Low | Deprecated |
 ### Music Disclaimer
 While I'm super hyped I got music added, I will not support it and once it breaks it will become deprecated, and eventually, removed.
 
