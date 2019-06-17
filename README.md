@@ -17,10 +17,10 @@
  MCEpic_Nation
 
 ### Features 
-| Feature | Supported | Support Priority | Status |
-| --- | :---: | --- | --- |
-| Fun Commands | :white_check_mark: | High |
-| Moderation Commands | :white_check_mark: | High |
+| Feature | Supported |
+| --- | :---: |
+| Fun Commands | :white_check_mark: |
+| Moderation Commands | :white_check_mark: |
 | Moderation Command Logging | :white_check_mark:|
 | Join/Leave Logs | :white_check_mark:|
 ### Music Disclaimer
