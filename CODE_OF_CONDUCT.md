@@ -1,4 +1,4 @@
-# Galaxy Network MAB Terms of giving us code &  Code of Conduct
+# Galaxy Network MAB Terms pull requests & Code of Conduct
 ## Terms
 The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts ("Content"). Content submitted express the views of their author only.
 
